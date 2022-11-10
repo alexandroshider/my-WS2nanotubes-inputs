@@ -1,4 +1,6 @@
-# my-WS2nanotubes-inputs
+# My Fortran generator WS2nanotubes inputs for my paper 
+
+## CLOSED
 
 I DECLARE THAT THIS CODE WAS ORIGINALLY WROTE BY Jin-Wu Jiang, jwjiang5918@hotmail.com; jiangjinwu@shu.edu.cn. 
 I modified these codes so we can get deffects on the tube. 
